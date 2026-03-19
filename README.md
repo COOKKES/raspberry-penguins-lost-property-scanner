@@ -50,5 +50,3 @@ We used a portable charger and small screen so the lost property scanner can be 
 We have started to use our project at our school and have had excellent feedback. We really do believe it will make a big difference to the amount of lost property we have.
 
 We hope you like our project as much as we do!
-
-## Survey Results
