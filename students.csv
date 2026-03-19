@@ -1,0 +1,24 @@
+student_id,name,class_teacher,class,parents_email
+S001,Alice Brown,Mr Smith,3A,alice.parent@email.com
+S002,Ben Carter,Mr Smith,3A,ben.parent@email.com
+S003,Chloe Davis,Mr Smith,3A,chloe.parent@email.com
+S004,Daniel Evans,Mr Smith,3A,daniel.parent@email.com
+S005,Emily Foster,Mr Smith,3A,emily.parent@email.com
+S006,Frank Green,Ms Johnson,3B,frank.parent@email.com
+S007,Grace Hall,Ms Johnson,3B,grace.parent@email.com
+S008,Harry Irving,Ms Johnson,3B,harry.parent@email.com
+S009,Isla Jones,Ms Johnson,3B,isla.parent@email.com
+S010,Jack King,Ms Johnson,3B,jack.parent@email.com
+S011,Katie Lewis,Mr Brown,4A,katie.parent@email.com
+S012,Liam Moore,Mr Brown,4A,liam.parent@email.com
+S013,Mia Nelson,Mr Brown,4A,mia.parent@email.com
+S014,Noah Owen,Mr Brown,4A,noah.parent@email.com
+S015,Olivia Price,Mr Brown,4A,olivia.parent@email.com
+S016,Peter Quinn,Ms White,4B,peter.parent@email.com
+S017,Quinn Roberts,Ms White,4B,quinn.parent@email.com
+S018,Ruby Scott,Ms White,4B,ruby.parent@email.com
+S019,Sam Turner,Ms White,4B,sam.parent@email.com
+S020,Tilly Underwood,Ms White,4B,tilly.parent@email.com
+S021,Leon,Ms white,4B,leon.prnteml.com
+S022,L,Ms white,4B,leon.prnteml.com
+
